@@ -1,2 +1,3 @@
 # resource-club
-![link](http://goodbedford.github.io/resource-club/)
+
+(http://goodbedford.github.io/resource-club/)
